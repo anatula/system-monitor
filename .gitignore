@@ -1,0 +1,17 @@
+# Simple .gitignore for learning project
+
+# Compiled binaries
+bin/
+sysmon
+sysmon.exe
+
+# Test coverage
+coverage.out
+coverage.html
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
